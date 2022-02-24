@@ -90,7 +90,7 @@ function obtenerResto(x, y) {
   
 }
 
-function esPar(num) {
+function esPr(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
